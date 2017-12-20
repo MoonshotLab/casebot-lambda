@@ -1,0 +1,208 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.NavigateSettingsIntent"
+    },
+    {
+      "intent": "AMAZON.MoreIntent"
+    },
+    {
+      "intent": "AMAZON.PageDownIntent"
+    },
+    {
+      "intent": "AMAZON.PageUpIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollRightIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollDownIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollLeftIntent"
+    },
+    {
+      "intent": "AMAZON.ScrollUpIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "CaseHyundaibluelink"
+    },
+    {
+      "intent": "CaseBudlight",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseCampbells"
+    },
+    {
+      "intent": "CasePizzahut",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseNikestylebot",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseWingstop",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "Restaurantmenu"
+    },
+    {
+      "intent": "CaseStarbucks"
+    },
+    {
+      "intent": "CaseAmericanheartassoc"
+    },
+    {
+      "intent": "CaseAmtrak"
+    },
+    {
+      "intent": "CaseInstantpot"
+    },
+    {
+      "intent": "Retailmenu"
+    },
+    {
+      "intent": "CaseKlm",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "Quickmenu"
+    },
+    {
+      "intent": "WhatSThatOverThere"
+    },
+    {
+      "intent": "CaseThemuse",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "Causemenu"
+    },
+    {
+      "intent": "Endhim"
+    },
+    {
+      "intent": "Travelmenu"
+    },
+    {
+      "intent": "CaseUber"
+    },
+    {
+      "intent": "CaseItalianhealth",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseDominospizza"
+    },
+    {
+      "intent": "CaseAerie",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseNordstrom",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CasePurina"
+    },
+    {
+      "intent": "Cpgmenu"
+    },
+    {
+      "intent": "CaseIllinoisholocaustmuseum"
+    },
+    {
+      "intent": "DefaultWelcomeIntent"
+    },
+    {
+      "intent": "CaseTide"
+    },
+    {
+      "intent": "CaseEbay"
+    },
+    {
+      "intent": "CaseAabrazil"
+    },
+    {
+      "intent": "CaseMayo",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseSephora",
+      "slots": [
+        {
+          "name": "techslot",
+          "type": "TECH"
+        }
+      ]
+    },
+    {
+      "intent": "CaseZyrtec"
+    }
+  ]
+}
