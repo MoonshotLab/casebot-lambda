@@ -1,6 +1,47 @@
+const Alexa = require('alexa-sdk');
+
+const makePlainText = Alexa.utils.TextUtils.makePlainText;
+const makeImage = Alexa.utils.ImageUtils.makeImage;
+
 module.exports = {
   HelloWorldIntent: function() {
-    this.emit(':tell', 'Hello World!');
+    const itemImage = makeImage(
+      'https://www.barkleyus.com/wp-content/themes/barkleyus/assets/images/our-capabilities-rocket.png',
+      700,
+      700
+    );
+    const listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
+    const listTemplateBuilder = new Alexa.templateBuilders.ListTemplate1Builder();
+    listItemBuilder.addItem(
+      itemImage,
+      'listItemToken1',
+      makePlainText('List Item 1')
+    );
+    listItemBuilder.addItem(
+      itemImage,
+      'listItemToken2',
+      makePlainText('List Item 2')
+    );
+    listItemBuilder.addItem(
+      itemImage,
+      'listItemToken3',
+      makePlainText('List Item 3')
+    );
+    listItemBuilder.addItem(
+      itemImage,
+      'listItemToken4',
+      makePlainText('List Item 4')
+    );
+    const listItems = listItemBuilder.build();
+    const listTemplate = listTemplateBuilder
+      .setToken('listToken')
+      .setTitle('listTemplate1')
+      .setListItems(listItems)
+      .build();
+    this.response
+      .speak('Rendering a list template!')
+      .renderTemplate(listTemplate);
+    this.emit(':responseReady');
   },
 
   LaunchRequest: function() {
