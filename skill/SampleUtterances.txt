@@ -1,363 +1,426 @@
-CaseHyundaibluelink	can i see hyundai bluelink please
-CaseHyundaibluelink	hyundai
-CaseHyundaibluelink	hyundai bluelink
-CaseHyundaibluelink	i d like to hear about the hyundai bluelink case study
-CaseHyundaibluelink	i'd like to hear about the hyundai bluelink case study
-CaseHyundaibluelink	show me hyundai bluelink
-CaseHyundaibluelink	show me the hyundai story
-CaseHyundaibluelink	show the hyundai bluelink case study
-CaseHyundaibluelink	talk to me about hyundai bluelink
-CaseHyundaibluelink	what about hyundai bluelink
-CaseBudlight	bud light
-CaseBudlight	bud light case story
-CaseBudlight	bud light case study
-CaseBudlight	bud light please
-CaseBudlight	bud light {techslot}
-CaseBudlight	budlight
-CaseBudlight	i'll have a bud light
-CaseBudlight	see the bud light case please
-CaseBudlight	show me the bud light case study
-CaseBudlight	show me the bud light story
-CaseCampbells	campbell soup
-CaseCampbells	campbell's
-CaseCampbells	campbell's soup
-CaseCampbells	campbell's soup alexa skill
-CaseCampbells	campbell's soup please
-CaseCampbells	campbell's soup skill
-CaseCampbells	show me campbell's soup
-CaseCampbells	show me the campbell s case study
-CaseCampbells	show me the campbell s soup case study
-CaseCampbells	show me the campbell s soup story
-CaseCampbells	show me the campbell's case study
-CaseCampbells	show me the campbell's soup case study
-CaseCampbells	show me the campbell's soup story'
-CasePizzahut	i d like to hear about pizza hut
-CasePizzahut	i'd like to hear about pizza hut
-CasePizzahut	pizza hut
-CasePizzahut	pizza hut case study
-CasePizzahut	pizza hut {techslot}
-CasePizzahut	show me pizza hut
-CasePizzahut	show me the pizza hut case study
-CasePizzahut	tell me about pizza hut
-CasePizzahut	tell me about the pizza hut bot
-CasePizzahut	the pizza hut case study
-CasePizzahut	the pizza hut chatbot
-CasePizzahut	the pizza hut {techslot}
-CasePizzahut	what about pizza hut
-CaseNikestylebot	can i see nike please
-CaseNikestylebot	i'd like to see the nike stylebot case study
-CaseNikestylebot	let's see the nike stylebot
-CaseNikestylebot	nike
-CaseNikestylebot	nike case study
-CaseNikestylebot	nike stylebot
-CaseNikestylebot	nike stylebot please
-CaseNikestylebot	nike {techslot}
-CaseNikestylebot	show me nike
-CaseNikestylebot	show me the nike case study
-CaseNikestylebot	show me the nike stylebot story
-CaseNikestylebot	tell me about the nike style bot
-CaseNikestylebot	view nike stylebot
-CaseNikestylebot	what about nike
-CaseNikestylebot	what about the nike {techslot}
-CaseWingstop	can i hear wingstop please
-CaseWingstop	can i read the wingstop case story
-CaseWingstop	give me that wingstop
-CaseWingstop	i need wingstop
-CaseWingstop	let me read wingstop please
-CaseWingstop	mmmmm wingstop
-CaseWingstop	show me the wingstop case study
-CaseWingstop	show me the wingstop story
-CaseWingstop	show me wingstop
-CaseWingstop	show wingstop
-CaseWingstop	wings
-CaseWingstop	wingstop
-CaseWingstop	wingstop case study
-CaseWingstop	wingstop {techslot}
-Restaurantmenu	by restaurant
-Restaurantmenu	restaurant
-Restaurantmenu	restaurant case studies
-Restaurantmenu	restaurant menu
-Restaurantmenu	show me restaurant case studies
-Restaurantmenu	what restaurant case stories are there
-CaseStarbucks	can you show me the starbucks case study
-CaseStarbucks	i d like to know about starbucks amazon echo skill
-CaseStarbucks	i'd like to know about starbucks amazon echo skill
-CaseStarbucks	let me hear about starbucks alexa skill
-CaseStarbucks	let's look at starbucks
-CaseStarbucks	see starbucks
-CaseStarbucks	see starbucks case study
-CaseStarbucks	show starbucks
-CaseStarbucks	starbuck s alexa skill
-CaseStarbucks	starbuck's alexa skill
-CaseStarbucks	starbucks
-CaseStarbucks	what about starbucks
-CaseAmericanheartassoc	aha
-CaseAmericanheartassoc	american heart association
-CaseAmericanheartassoc	american heart association please
-CaseAmericanheartassoc	i'd like to hear the american heart association case study
-CaseAmericanheartassoc	show me the heart association story
-CaseAmericanheartassoc	what about the american heart association story
-CaseAmtrak	amtrak
-CaseAmtrak	amtrak ask julie
-CaseAmtrak	amtrak case study
-CaseAmtrak	amtrak chatbot
-CaseAmtrak	amtrak please
-CaseAmtrak	amtrak virtual assistant
-CaseAmtrak	read the amtrak case study
-CaseAmtrak	show me the amtrak case study
-CaseAmtrak	show me the amtrak story
-CaseAmtrak	tell me about amtrak
-CaseInstantpot	i'd like to hear about the instant pot alexa skill
-CaseInstantpot	instant pot
-CaseInstantpot	show me instant pot
-CaseInstantpot	show me the instant pot case study
-CaseInstantpot	tell me about instant pot
-CaseInstantpot	tell me about the instant pot story
-Retailmenu	how about retail brands
-Retailmenu	i'd like to see retail case studies
-Retailmenu	list your retail case studies
-Retailmenu	retai
-Retailmenu	retail
-Retailmenu	retail menu please
-Retailmenu	retal menu
-Retailmenu	show me retail case studies
-Retailmenu	show me the retail menu
-Retailmenu	what retail case studies do you have
-Retailmenu	what retail case studies do you know
-Retailmenu	what retail chatbots do you have
-CaseKlm	i d like to hear about the klm {techslot}
-CaseKlm	i d like to see the klm {techslot} case study
-CaseKlm	i'd like to see the klm chatbot case study
-CaseKlm	klm
-CaseKlm	klm case study
-CaseKlm	klm {techslot}
-CaseKlm	let's see klm
-CaseKlm	see klm
-CaseKlm	show me klm case story
-CaseKlm	show me the klm case
-CaseKlm	show me the klm story
-CaseKlm	tell me about the klm chat case story
-CaseKlm	tell me about the klm {techslot} case story
-CaseKlm	what about the klm chatbot
-CaseKlm	what about the klm {techslot}
-Quickmenu	back
-Quickmenu	back to main menu
-Quickmenu	go back
-Quickmenu	main menu
-Quickmenu	menu
-Quickmenu	quick menu
-WhatSThatOverThere	what s that over there
-CaseThemuse	how do i ask for a raise
-CaseThemuse	i'd like to hear about the muse
-CaseThemuse	see the muse {techslot} case story
-CaseThemuse	show me the muse story
-CaseThemuse	tell me about the muse case study
-CaseThemuse	tell me the muse story
-CaseThemuse	the muse
-CaseThemuse	the muse ask for a raise
-CaseThemuse	what is the muse about
-CaseThemuse	what is the muse case study
-CaseThemuse	what is the muse {techslot}
-CaseThemuse	what is the muse {techslot} case study
-Causemenu	cause
-Causemenu	cause brands
-Causemenu	cause case studies
-Causemenu	cause menu
-Causemenu	causes
-Causemenu	charities
-Causemenu	do you know of any charities using chatbots
-Causemenu	for cause
-Causemenu	i cause
-Causemenu	non profit case studies
-Causemenu	non profits
-Causemenu	non-profit case studies
-Causemenu	non-profits
-Causemenu	not for profit case studies
-Causemenu	show me cause case studies
-Causemenu	show me non profit brands
-Causemenu	show me non-profit case studies
-Causemenu	what about charities
-Causemenu	what charities use chatbots
-Causemenu	what non profits use voice tech
-Causemenu	what non-profits use chatbots
-Endhim	all do now
-Endhim	all done now
-Endhim	buh bye
-Endhim	bye
-Endhim	bye bye
-Endhim	end
-Endhim	farewell
-Endhim	goodbye
-Endhim	later gator
-Endhim	later alligator
-Endhim	later gator
-Endhim	see ya later
-Endhim	see you later
-Endhim	so long
-Travelmenu	can i see the travel menu
-Travelmenu	look at travel menu
-Travelmenu	show me case stories from travel brands
-Travelmenu	show me travel stories
-Travelmenu	travel
-Travelmenu	travel case studies
-Travelmenu	travel menu
-Travelmenu	what about travel brands
-CaseUber	call me an uber
-CaseUber	can i hear about the uber amazon echo skill
-CaseUber	can you show me the uber story
-CaseUber	i'd like to hear about the uber alexa skill
-CaseUber	let's see uber
-CaseUber	see the uber case study
-CaseUber	show me the uber story
-CaseUber	uber
-CaseUber	uber case study
-CaseUber	uber story
-CaseUber	what about uber
-CaseItalianhealth	{techslot} yourself
-CaseItalianhealth	alzheimer {techslot}
-CaseItalianhealth	alzheimer {techslot} case study
-CaseItalianhealth	alzheimers chatbot
-CaseItalianhealth	alzheimers {techslot} case study
-CaseItalianhealth	can i see alzheimer {techslot}
-CaseItalianhealth	can i see alzheimers {techslot}
-CaseItalianhealth	can i see the alzheimer s {techslot}
-CaseItalianhealth	can i see the alzheimer's chatbot
-CaseItalianhealth	italian health
-CaseItalianhealth	italian health ministry
-CaseItalianhealth	read the alzheimer {techslot} story
-CaseItalianhealth	read the alzheimers chatbot story
-CaseItalianhealth	show me the alzheimer s case study
-CaseItalianhealth	show me the alzheimer's case study
-CaseItalianhealth	show me the italian health case study
-CaseItalianhealth	show me the italian health ministry {techslot}
-CaseItalianhealth	what about the italian health chatbot
-CaseDominospizza	can i see the domino's pizza study
-CaseDominospizza	domino's
-CaseDominospizza	domino's pizza
-CaseDominospizza	domino's pizza alexa skill
-CaseDominospizza	domino's pizza please
-CaseDominospizza	show me domino's
-CaseDominospizza	show me domino's pizza
-CaseDominospizza	show me the domino s pizza case study
-CaseDominospizza	show me the domino's case study
-CaseDominospizza	show me the domino's pizza case study
-CaseDominospizza	show me the domino's pizza story
-CaseAerie	aerie
-CaseAerie	aerie case study
-CaseAerie	aerie chatbot
-CaseAerie	can i hear the aerie case study
-CaseAerie	can i see the aerie case story
-CaseAerie	erie
-CaseAerie	erie chatbot
-CaseAerie	erie {techslot}
-CaseAerie	show me the aerie case study
-CaseAerie	show me the area case study
-CaseAerie	talk to me about aerie
-CaseAerie	what about the aerie story
-CaseNordstrom	nordstrom
-CaseNordstrom	nordstrom bot
-CaseNordstrom	nordstrom chatbot
-CaseNordstrom	nordstrom holiday gifting bot
-CaseNordstrom	nordstrom holiday {techslot}
-CaseNordstrom	nordstrom {techslot}
-CaseNordstrom	nordtsrom holiday bot
-CaseNordstrom	show me nordstrom
-CaseNordstrom	show me the nordstrom case study
-CaseNordstrom	tell me about the nordstrom bot
-CaseNordstrom	tell me about the nordstrom {techslot}
-CaseNordstrom	view nordstrom
-CaseNordstrom	what about nordstrom
-CasePurina	ask purina
-CasePurina	ask purina skill
-CasePurina	can i see purina
-CasePurina	can i see the ask purina case study
-CasePurina	can you tell me about the purina case study
-CasePurina	i'd like to hear about the purina alexa skill
-CasePurina	purina
-CasePurina	see purina story
-CasePurina	show me purina
-CasePurina	show me the purina case study
-CasePurina	what about the purina alexa skill
-Cpgmenu	cpg
-Cpgmenu	cpg case studies
-Cpgmenu	cpg menu
-Cpgmenu	show cpg stories
-Cpgmenu	show me cpg stories
-Cpgmenu	show me stories from the cpg category
-Cpgmenu	what cpg case studies do you know
-CaseIllinoisholocaustmuseum	can i see the holocaust museum story
-CaseIllinoisholocaustmuseum	holocaust museum
-CaseIllinoisholocaustmuseum	holocaust museum case study
-CaseIllinoisholocaustmuseum	holocaust survivor stories case study
-CaseIllinoisholocaustmuseum	illinois holocaust museum
-CaseIllinoisholocaustmuseum	show me the illinois holocaust museum case study
-CaseIllinoisholocaustmuseum	survivor stories
-CaseIllinoisholocaustmuseum	survivor stories theater
-CaseIllinoisholocaustmuseum	survivor story
-CaseIllinoisholocaustmuseum	survivors stories
-CaseIllinoisholocaustmuseum	what about the holocaust museum case story
-DefaultWelcomeIntent	hey
-DefaultWelcomeIntent	hi
-DefaultWelcomeIntent	high
-DefaultWelcomeIntent	open brand voice
-CaseTide	can i hear the tide story
-CaseTide	can i see the tide case study
-CaseTide	i d like to see the tide case story
-CaseTide	i'd like to see the tide case story
-CaseTide	show me the tide case study
-CaseTide	show me the tide story
-CaseTide	tide
-CaseTide	tide case story
-CaseTide	tide case study
-CaseTide	tide stain remover
-CaseTide	tide story
-CaseTide	what about tide
-CaseEbay	can i see ebay please
-CaseEbay	can i see ebay please
-CaseEbay	ebay assistant story
-CaseEbay	ebay case study
-CaseEbay	ebay please
-CaseEbay	i d like to learn about the ebay google assistant app
-CaseEbay	i'd like to hear about ebay
-CaseEbay	i'd like to learn about the ebay google assistant app
-CaseEbay	show me ebay
-CaseEbay	show me the ebay case study
-CaseEbay	show me the ebay story
-CaseEbay	what about the ebay case story
-CaseEbay	what about the ebay google assistant app
-CaseAabrazil	a a brazil story please
-CaseAabrazil	alcoholic anonymous case story
-CaseAabrazil	alcoholics anonymous brazil case study
-CaseAabrazil	alcoholics anonymous case story
-CaseAabrazil	i'd like to see the alcoholics anonymous brazil story
-CaseMayo	i d like to hear the mayo clinic story
-CaseMayo	i'd like to hear the mayo clinic story
-CaseMayo	let's hear the mayo story
-CaseMayo	mayo
-CaseMayo	mayo clinic alexa skill
-CaseMayo	mayo clinic {techslot}
-CaseMayo	see the mayo clinic case story
-CaseMayo	show me the mayo case study
-CaseMayo	show me the mayo clinic story
-CaseMayo	the mayo clinic
-CaseSephora	can i hear about sephora
-CaseSephora	can i see sephora
-CaseSephora	sephora
-CaseSephora	sephora please
-CaseSephora	sephora {techslot}
-CaseSephora	show me sephora
-CaseSephora	show me the sephora case study
-CaseSephora	show me the sephora story
-CaseSephora	what about sephora
-CaseSephora	what about the sephora case study
-CaseZyrtec	can i hear about zyrtec
-CaseZyrtec	can i hear the zyrtec case story please
-CaseZyrtec	can i see the zyrtec case study please
-CaseZyrtec	i d like to see the zyrtec case study
-CaseZyrtec	i'd like to see the zyrtec case study
-CaseZyrtec	show me the zyrtec case study
-CaseZyrtec	show me zyrtec
-CaseZyrtec	what about zyrtec
-CaseZyrtec	zyrtec
-CaseZyrtec	zyrtec case study
-CaseZyrtec	zyrtec story
+MainMenu	main menu
+MainMenu	menu
+MainMenu	quick menu
+MainMenu	show me the main menu
+MainMenu	go home
+MainMenu	home menu
+MainMenu	go to the main menu
+PlayVideoIntent	play video
+PlayVideoIntent	start the video
+PlayVideoIntent	show me video
+PlayVideoIntent	play movie
+CaseStudyHyundai	can i see hyundai bluelink please
+CaseStudyHyundai	hyundai
+CaseStudyHyundai	hyundai bluelink
+CaseStudyHyundai	i d like to hear about the hyundai bluelink case study
+CaseStudyHyundai	i'd like to hear about the hyundai bluelink case study
+CaseStudyHyundai	show me hyundai bluelink
+CaseStudyHyundai	show me the hyundai story
+CaseStudyHyundai	show the hyundai bluelink case study
+CaseStudyHyundai	talk to me about hyundai bluelink
+CaseStudyHyundai	what about hyundai bluelink
+CaseStudyHyundaiVideo	hyundai video
+CaseStudyHyundaiVideo	hyundai case study video
+CaseStudyHyundaiVideo	hyundai bluelink video
+CaseStudyHyundaiVideo	blue link video
+CaseStudyHyundaiVideo	hyundai blue link video
+CaseStudyHyundaiVideo	show me hyundai bluelink video
+CaseStudyHyundaiVideo	show me the hyundai story
+CaseStudyHyundaiVideo	show the hyundai bluelink case study video
+CaseStudyHyundaiVideo	show the hyundai blue link case study video
+CaseStudyBudLight	bud light
+CaseStudyBudLight	bud light case story
+CaseStudyBudLight	bud light case study
+CaseStudyBudLight	bud light please
+CaseStudyBudLight	bud light {techslot}
+CaseStudyBudLight	budlight
+CaseStudyBudLight	i'll have a bud light
+CaseStudyBudLight	see the bud light case please
+CaseStudyBudLight	show me the bud light case study
+CaseStudyBudLight	show me the bud light story
+CaseStudyCampbells	campbell soup
+CaseStudyCampbells	campbell's
+CaseStudyCampbells	campbell's soup
+CaseStudyCampbells	campbell's soup alexa skill
+CaseStudyCampbells	campbell's soup please
+CaseStudyCampbells	campbell's soup skill
+CaseStudyCampbells	show me campbell's soup
+CaseStudyCampbells	show me the campbell s case study
+CaseStudyCampbells	show me the campbell s soup case study
+CaseStudyCampbells	show me the campbell s soup story
+CaseStudyCampbells	show me the campbell's case study
+CaseStudyCampbells	show me the campbell's soup case study
+CaseStudyCampbells	show me the campbell's soup story'
+CaseStudyPizzaHut	i d like to hear about pizza hut
+CaseStudyPizzaHut	i'd like to hear about pizza hut
+CaseStudyPizzaHut	pizza hut
+CaseStudyPizzaHut	pizza hut case study
+CaseStudyPizzaHut	pizza hut {techslot}
+CaseStudyPizzaHut	show me pizza hut
+CaseStudyPizzaHut	show me the pizza hut case study
+CaseStudyPizzaHut	tell me about pizza hut
+CaseStudyPizzaHut	tell me about the pizza hut bot
+CaseStudyPizzaHut	the pizza hut case study
+CaseStudyPizzaHut	the pizza hut chatbot
+CaseStudyPizzaHut	the pizza hut {techslot}
+CaseStudyPizzaHut	what about pizza hut
+CaseStudyNike	can i see nike please
+CaseStudyNike	i'd like to see the nike stylebot case study
+CaseStudyNike	let's see the nike stylebot
+CaseStudyNike	nike
+CaseStudyNike	nike case study
+CaseStudyNike	nike stylebot
+CaseStudyNike	nike stylebot please
+CaseStudyNike	nike {techslot}
+CaseStudyNike	show me nike
+CaseStudyNike	show me the nike case study
+CaseStudyNike	show me the nike stylebot story
+CaseStudyNike	tell me about the nike style bot
+CaseStudyNike	view nike stylebot
+CaseStudyNike	what about nike
+CaseStudyNike	what about the nike {techslot}
+CaseStudyWingstop	can i hear wingstop please
+CaseStudyWingstop	can i read the wingstop case story
+CaseStudyWingstop	give me that wingstop
+CaseStudyWingstop	i need wingstop
+CaseStudyWingstop	let me read wingstop please
+CaseStudyWingstop	mmmmm wingstop
+CaseStudyWingstop	show me the wingstop case study
+CaseStudyWingstop	show me the wingstop story
+CaseStudyWingstop	show me wingstop
+CaseStudyWingstop	show wingstop
+CaseStudyWingstop	wings
+CaseStudyWingstop	wingstop
+CaseStudyWingstop	wingstop case study
+CaseStudyWingstop	wingstop {techslot}
+CategoryMenuRestaurant	by restaurant
+CategoryMenuRestaurant	restaurant
+CategoryMenuRestaurant	restaurant case studies
+CategoryMenuRestaurant	restaurant menu
+CategoryMenuRestaurant	show me restaurant case studies
+CategoryMenuRestaurant	what restaurant case stories are there
+CaseStudyStarbucks	can you show me the starbucks case study
+CaseStudyStarbucks	i d like to know about starbucks amazon echo skill
+CaseStudyStarbucks	i'd like to know about starbucks amazon echo skill
+CaseStudyStarbucks	let me hear about starbucks alexa skill
+CaseStudyStarbucks	let's look at starbucks
+CaseStudyStarbucks	see starbucks
+CaseStudyStarbucks	see starbucks case study
+CaseStudyStarbucks	show starbucks
+CaseStudyStarbucks	starbuck s alexa skill
+CaseStudyStarbucks	starbuck's alexa skill
+CaseStudyStarbucks	starbucks
+CaseStudyStarbucks	what about starbucks
+CaseStudyAHA	aha
+CaseStudyAHA	american heart association
+CaseStudyAHA	american heart association please
+CaseStudyAHA	i'd like to hear the american heart association case study
+CaseStudyAHA	show me the heart association story
+CaseStudyAHA	what about the american heart association story
+CaseStudyAHAVideo	aha video
+CaseStudyAHAVideo	american heart association video
+CaseStudyAHAVideo	american heart association case study video
+CaseStudyAHAVideo	show me the aha case study video
+CaseStudyAHAVideo	show me the alexa cpr video
+CaseStudyAHAVideo	aha alexa video
+CaseStudyAmtrak	amtrak
+CaseStudyAmtrak	amtrak ask julie
+CaseStudyAmtrak	amtrak case study
+CaseStudyAmtrak	amtrak chatbot
+CaseStudyAmtrak	amtrak please
+CaseStudyAmtrak	amtrak virtual assistant
+CaseStudyAmtrak	read the amtrak case study
+CaseStudyAmtrak	show me the amtrak case study
+CaseStudyAmtrak	show me the amtrak story
+CaseStudyAmtrak	tell me about amtrak
+CaseStudyAmtrakVideo	amtrak video
+CaseStudyAmtrakVideo	amtrak ask julie video
+CaseStudyAmtrakVideo	amtrak case study video
+CaseStudyAmtrakVideo	amtrak chatbot video
+CaseStudyAmtrakVideo	amtrak virtual assistant video
+CaseStudyAmtrakVideo	amtrak case study video
+CaseStudyAmtrakVideo	show me the amtrak case study video
+CaseStudyAmtrakVideo	show me the amtrak video
+CaseStudyInstantPot	i'd like to hear about the instant pot alexa skill
+CaseStudyInstantPot	instant pot
+CaseStudyInstantPot	show me instant pot
+CaseStudyInstantPot	show me the instant pot case study
+CaseStudyInstantPot	tell me about instant pot
+CaseStudyInstantPot	tell me about the instant pot story
+CategoryMenuRetail	how about retail brands
+CategoryMenuRetail	i'd like to see retail case studies
+CategoryMenuRetail	list your retail case studies
+CategoryMenuRetail	retai
+CategoryMenuRetail	retail
+CategoryMenuRetail	retail menu please
+CategoryMenuRetail	retal menu
+CategoryMenuRetail	show me retail case studies
+CategoryMenuRetail	show me the retail menu
+CategoryMenuRetail	what retail case studies do you have
+CategoryMenuRetail	what retail case studies do you know
+CategoryMenuRetail	what retail chatbots do you have
+CaseStudyKLM	i d like to hear about the klm {techslot}
+CaseStudyKLM	i d like to see the klm {techslot} case study
+CaseStudyKLM	i'd like to see the klm chatbot case study
+CaseStudyKLM	klm
+CaseStudyKLM	klm case study
+CaseStudyKLM	klm {techslot}
+CaseStudyKLM	let's see klm
+CaseStudyKLM	see klm
+CaseStudyKLM	show me klm case story
+CaseStudyKLM	show me the klm case
+CaseStudyKLM	show me the klm story
+CaseStudyKLM	tell me about the klm chat case story
+CaseStudyKLM	tell me about the klm {techslot} case story
+CaseStudyKLM	what about the klm chatbot
+CaseStudyKLM	what about the klm {techslot}
+CaseStudyKLMVideo	klm video
+CaseStudyKLMVideo	klm messenger video
+CaseStudyKLMVideo	klm case study video
+CaseStudyKLMVideo	let's see klm video
+CaseStudyKLMVideo	see klm video
+CaseStudyKLMVideo	show me klm case study video
+CaseStudyKLMVideo	show me the klm case video
+CaseStudyKLMVideo	show me the klm story video
+CaseStudyTheMuse	how do i ask for a raise
+CaseStudyTheMuse	i'd like to hear about the muse
+CaseStudyTheMuse	see the muse {techslot} case story
+CaseStudyTheMuse	show me the muse story
+CaseStudyTheMuse	tell me about the muse case study
+CaseStudyTheMuse	tell me the muse story
+CaseStudyTheMuse	the muse
+CaseStudyTheMuse	the muse ask for a raise
+CaseStudyTheMuse	what is the muse about
+CaseStudyTheMuse	what is the muse case study
+CaseStudyTheMuse	what is the muse {techslot}
+CaseStudyTheMuse	what is the muse {techslot} case study
+CategoryMenuCause	cause
+CategoryMenuCause	cause brands
+CategoryMenuCause	cause case studies
+CategoryMenuCause	cause menu
+CategoryMenuCause	causes
+CategoryMenuCause	charities
+CategoryMenuCause	do you know of any charities using chatbots
+CategoryMenuCause	for cause
+CategoryMenuCause	i cause
+CategoryMenuCause	non profit case studies
+CategoryMenuCause	non profits
+CategoryMenuCause	non-profit case studies
+CategoryMenuCause	non-profits
+CategoryMenuCause	not for profit case studies
+CategoryMenuCause	show me cause case studies
+CategoryMenuCause	show me non profit brands
+CategoryMenuCause	show me non-profit case studies
+CategoryMenuCause	what about charities
+CategoryMenuCause	what charities use chatbots
+CategoryMenuCause	what non profits use voice tech
+CategoryMenuCause	what non-profits use chatbots
+CategoryMenuTravel	can i see the travel menu
+CategoryMenuTravel	look at travel menu
+CategoryMenuTravel	show me case stories from travel brands
+CategoryMenuTravel	show me travel stories
+CategoryMenuTravel	travel
+CategoryMenuTravel	travel case studies
+CategoryMenuTravel	travel menu
+CategoryMenuTravel	what about travel brands
+CaseStudyUber	call me an uber
+CaseStudyUber	can i hear about the uber amazon echo skill
+CaseStudyUber	can you show me the uber story
+CaseStudyUber	i'd like to hear about the uber alexa skill
+CaseStudyUber	let's see uber
+CaseStudyUber	see the uber case study
+CaseStudyUber	show me the uber story
+CaseStudyUber	uber
+CaseStudyUber	uber case study
+CaseStudyUber	uber story
+CaseStudyUber	what about uber
+CaseStudyUberVideo	uber case video
+CaseStudyUberVideo	play uber case video
+CaseStudyUberVideo	show me uber case video
+CaseStudyUberVideo	uber case study video
+CaseStudyUberVideo	uber alexa video
+CaseStudyUberVideo	uber video
+CaseStudyUberVideo	play uber video
+CaseStudyUberVideo	show the uber video
+CaseStudyItalianHealth	{techslot} yourself
+CaseStudyItalianHealth	alzheimer {techslot}
+CaseStudyItalianHealth	alzheimer {techslot} case study
+CaseStudyItalianHealth	alzheimers chatbot
+CaseStudyItalianHealth	alzheimers {techslot} case study
+CaseStudyItalianHealth	can i see alzheimer {techslot}
+CaseStudyItalianHealth	can i see alzheimers {techslot}
+CaseStudyItalianHealth	can i see the alzheimer s {techslot}
+CaseStudyItalianHealth	can i see the alzheimer's chatbot
+CaseStudyItalianHealth	italian health
+CaseStudyItalianHealth	italian health ministry
+CaseStudyItalianHealth	read the alzheimer {techslot} story
+CaseStudyItalianHealth	read the alzheimers chatbot story
+CaseStudyItalianHealth	show me the alzheimer s case study
+CaseStudyItalianHealth	show me the alzheimer's case study
+CaseStudyItalianHealth	show me the italian health case study
+CaseStudyItalianHealth	show me the italian health ministry {techslot}
+CaseStudyItalianHealth	what about the italian health chatbot
+CaseStudyItalianHealthVideo	chat yourself video
+CaseStudyItalianHealthVideo	alzheimer video
+CaseStudyItalianHealthVideo	alzheimer case study video
+CaseStudyItalianHealthVideo	alzheimers chatbot video
+CaseStudyItalianHealthVideo	alzheimers case study video
+CaseStudyItalianHealthVideo	italian health video
+CaseStudyItalianHealthVideo	italian health ministry video
+CaseStudyItalianHealthVideo	italian health case study video
+CaseStudyItalianHealthVideo	italian health ministry case study video
+CaseStudyDominos	can i see the domino's pizza study
+CaseStudyDominos	domino's
+CaseStudyDominos	domino's pizza
+CaseStudyDominos	domino's pizza alexa skill
+CaseStudyDominos	domino's pizza please
+CaseStudyDominos	show me domino's
+CaseStudyDominos	show me domino's pizza
+CaseStudyDominos	show me the domino s pizza case study
+CaseStudyDominos	show me the domino's case study
+CaseStudyDominos	show me the domino's pizza case study
+CaseStudyDominos	show me the domino's pizza story
+CaseStudyAerie	aerie
+CaseStudyAerie	aerie case study
+CaseStudyAerie	aerie chatbot
+CaseStudyAerie	can i hear the aerie case study
+CaseStudyAerie	can i see the aerie case story
+CaseStudyAerie	erie
+CaseStudyAerie	erie chatbot
+CaseStudyAerie	erie {techslot}
+CaseStudyAerie	show me the aerie case study
+CaseStudyAerie	show me the area case study
+CaseStudyAerie	talk to me about aerie
+CaseStudyAerie	what about the aerie story
+CaseStudyNordstrom	nordstrom
+CaseStudyNordstrom	nordstrom bot
+CaseStudyNordstrom	nordstrom chatbot
+CaseStudyNordstrom	nordstrom holiday gifting bot
+CaseStudyNordstrom	nordstrom holiday {techslot}
+CaseStudyNordstrom	nordstrom {techslot}
+CaseStudyNordstrom	nordtsrom holiday bot
+CaseStudyNordstrom	show me nordstrom
+CaseStudyNordstrom	show me the nordstrom case study
+CaseStudyNordstrom	tell me about the nordstrom bot
+CaseStudyNordstrom	tell me about the nordstrom {techslot}
+CaseStudyNordstrom	view nordstrom
+CaseStudyNordstrom	what about nordstrom
+CaseStudyPurina	ask purina
+CaseStudyPurina	ask purina skill
+CaseStudyPurina	can i see purina
+CaseStudyPurina	can i see the ask purina case study
+CaseStudyPurina	can you tell me about the purina case study
+CaseStudyPurina	i'd like to hear about the purina alexa skill
+CaseStudyPurina	purina
+CaseStudyPurina	see purina story
+CaseStudyPurina	show me purina
+CaseStudyPurina	show me the purina case study
+CaseStudyPurina	what about the purina alexa skill
+CategoryMenuCPG	cpg
+CategoryMenuCPG	cpg case studies
+CategoryMenuCPG	cpg menu
+CategoryMenuCPG	show cpg stories
+CategoryMenuCPG	show me cpg stories
+CategoryMenuCPG	show me stories from the cpg category
+CategoryMenuCPG	what cpg case studies do you know
+CaseStudyHolocaustMuseum	can i see the holocaust museum story
+CaseStudyHolocaustMuseum	holocaust museum
+CaseStudyHolocaustMuseum	holocaust museum case study
+CaseStudyHolocaustMuseum	holocaust survivor stories case study
+CaseStudyHolocaustMuseum	illinois holocaust museum
+CaseStudyHolocaustMuseum	show me the illinois holocaust museum case study
+CaseStudyHolocaustMuseum	survivor stories
+CaseStudyHolocaustMuseum	survivor stories theater
+CaseStudyHolocaustMuseum	survivor story
+CaseStudyHolocaustMuseum	survivors stories
+CaseStudyHolocaustMuseum	what about the holocaust museum case story
+CaseStudyHolocaustMuseumVideo	can i see the holocaust museum story video
+CaseStudyHolocaustMuseumVideo	holocaust museum video
+CaseStudyHolocaustMuseumVideo	holocaust museum case study video
+CaseStudyHolocaustMuseumVideo	play the holocaust video
+CaseStudyHolocaustMuseumVideo	play the holocaust museum video
+CaseStudyHolocaustMuseumVideo	survivor stories video
+CaseStudyTide	can i hear the tide story
+CaseStudyTide	can i see the tide case study
+CaseStudyTide	i d like to see the tide case story
+CaseStudyTide	i'd like to see the tide case story
+CaseStudyTide	show me the tide case study
+CaseStudyTide	show me the tide story
+CaseStudyTide	tide
+CaseStudyTide	tide case story
+CaseStudyTide	tide case study
+CaseStudyTide	tide stain remover
+CaseStudyTide	tide story
+CaseStudyTide	what about tide
+CaseStudyEbay	can i see ebay please
+CaseStudyEbay	ebay assistant story
+CaseStudyEbay	ebay case study
+CaseStudyEbay	ebay please
+CaseStudyEbay	i d like to learn about the ebay google assistant app
+CaseStudyEbay	i'd like to hear about ebay
+CaseStudyEbay	i'd like to learn about the ebay google assistant app
+CaseStudyEbay	show me ebay
+CaseStudyEbay	show me the ebay case study
+CaseStudyEbay	show me the ebay story
+CaseStudyEbay	what about the ebay case story
+CaseStudyEbay	what about the ebay google assistant app
+CaseStudyEbayVideo	ebay video
+CaseStudyEbayVideo	ebay assistant video
+CaseStudyEbayVideo	ebay case study video
+CaseStudyEbayVideo	show me ebay video
+CaseStudyEbayVideo	show me the ebay case study video
+CaseStudyEbayVideo	ebay google assistant video
+CaseStudyAA	a a brazil story please
+CaseStudyAA	alcoholics anonymous case story
+CaseStudyAA	alcoholics anonymous brazil case study
+CaseStudyAA	alcoholics anonymous case story
+CaseStudyAA	i'd like to see the alcoholics anonymous brazil story
+CaseStudyAAVideo	play the alcoholics anonymous video
+CaseStudyAAVideo	play the brazil video
+CaseStudyAAVideo	brazil video
+CaseStudyAAVideo	alcoholics anonymous video
+CaseStudyAAVideo	alcoholics anonymous case study video
+CaseStudyAAVideo	brazil case study video
+CaseStudyAAVideo	brazil alcoholics anonymous case study video
+CaseStudyAAVideo	brazil alcoholics anonymous video
+CaseStudyMayoClinic	i d like to hear the mayo clinic story
+CaseStudyMayoClinic	i'd like to hear the mayo clinic story
+CaseStudyMayoClinic	let's hear the mayo story
+CaseStudyMayoClinic	mayo
+CaseStudyMayoClinic	mayo clinic alexa skill
+CaseStudyMayoClinic	mayo clinic {techslot}
+CaseStudyMayoClinic	see the mayo clinic case story
+CaseStudyMayoClinic	show me the mayo case study
+CaseStudyMayoClinic	show me the mayo clinic story
+CaseStudyMayoClinic	the mayo clinic
+CaseStudyMayoClinicVideo	i d like to hear the mayo clinic video
+CaseStudyMayoClinicVideo	i'd like to hear the mayo clinic video
+CaseStudyMayoClinicVideo	let's hear the mayo video
+CaseStudyMayoClinicVideo	mayo video
+CaseStudyMayoClinicVideo	mayo clinic alexa skill video
+CaseStudyMayoClinicVideo	mayo clinic video
+CaseStudyMayoClinicVideo	see the mayo clinic case story video
+CaseStudyMayoClinicVideo	show me the mayo case study video
+CaseStudyMayoClinicVideo	show me the mayo clinic story video
+CaseStudyMayoClinicVideo	the mayo clinic video
+CaseStudySephora	can i hear about sephora
+CaseStudySephora	can i see sephora
+CaseStudySephora	sephora
+CaseStudySephora	sephora please
+CaseStudySephora	sephora {techslot}
+CaseStudySephora	show me sephora
+CaseStudySephora	show me the sephora case study
+CaseStudySephora	show me the sephora story
+CaseStudySephora	what about sephora
+CaseStudySephora	what about the sephora case study
+CaseStudyZyrtec	can i hear about zyrtec
+CaseStudyZyrtec	can i hear the zyrtec case story please
+CaseStudyZyrtec	can i see the zyrtec case study please
+CaseStudyZyrtec	i d like to see the zyrtec case study
+CaseStudyZyrtec	i'd like to see the zyrtec case study
+CaseStudyZyrtec	show me the zyrtec case study
+CaseStudyZyrtec	show me zyrtec
+CaseStudyZyrtec	what about zyrtec
+CaseStudyZyrtec	zyrtec
+CaseStudyZyrtec	zyrtec case study
+CaseStudyZyrtec	zyrtec story

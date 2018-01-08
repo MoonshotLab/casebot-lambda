@@ -37,10 +37,19 @@
       "intent": "AMAZON.PreviousIntent"
     },
     {
-      "intent": "CaseHyundaibluelink"
+      "intent": "MainMenu"
     },
     {
-      "intent": "CaseBudlight",
+      "intent": "PlayVideoIntent"
+    },
+    {
+      "intent": "CaseStudyHyundai"
+    },
+    {
+      "intent": "CaseStudyHyundaiVideo"
+    },
+    {
+      "intent": "CaseStudyBudLight",
       "slots": [
         {
           "name": "techslot",
@@ -49,10 +58,10 @@
       ]
     },
     {
-      "intent": "CaseCampbells"
+      "intent": "CaseStudyCampbells"
     },
     {
-      "intent": "CasePizzahut",
+      "intent": "CaseStudyPizzaHut",
       "slots": [
         {
           "name": "techslot",
@@ -61,7 +70,7 @@
       ]
     },
     {
-      "intent": "CaseNikestylebot",
+      "intent": "CaseStudyNike",
       "slots": [
         {
           "name": "techslot",
@@ -70,7 +79,7 @@
       ]
     },
     {
-      "intent": "CaseWingstop",
+      "intent": "CaseStudyWingstop",
       "slots": [
         {
           "name": "techslot",
@@ -79,25 +88,31 @@
       ]
     },
     {
-      "intent": "Restaurantmenu"
+      "intent": "CategoryMenuRestaurant"
     },
     {
-      "intent": "CaseStarbucks"
+      "intent": "CaseStudyStarbucks"
     },
     {
-      "intent": "CaseAmericanheartassoc"
+      "intent": "CaseStudyAHA"
     },
     {
-      "intent": "CaseAmtrak"
+      "intent": "CaseStudyAHAVideo"
     },
     {
-      "intent": "CaseInstantpot"
+      "intent": "CaseStudyAmtrak"
     },
     {
-      "intent": "Retailmenu"
+      "intent": "CaseStudyAmtrakVideo"
     },
     {
-      "intent": "CaseKlm",
+      "intent": "CaseStudyInstantPot"
+    },
+    {
+      "intent": "CategoryMenuRetail"
+    },
+    {
+      "intent": "CaseStudyKLM",
       "slots": [
         {
           "name": "techslot",
@@ -106,13 +121,10 @@
       ]
     },
     {
-      "intent": "Quickmenu"
+      "intent": "CaseStudyKLMVideo"
     },
     {
-      "intent": "WhatSThatOverThere"
-    },
-    {
-      "intent": "CaseThemuse",
+      "intent": "CaseStudyTheMuse",
       "slots": [
         {
           "name": "techslot",
@@ -121,19 +133,19 @@
       ]
     },
     {
-      "intent": "Causemenu"
+      "intent": "CategoryMenuCause"
     },
     {
-      "intent": "Endhim"
+      "intent": "CategoryMenuTravel"
     },
     {
-      "intent": "Travelmenu"
+      "intent": "CaseStudyUber"
     },
     {
-      "intent": "CaseUber"
+      "intent": "CaseStudyUberVideo"
     },
     {
-      "intent": "CaseItalianhealth",
+      "intent": "CaseStudyItalianHealth",
       "slots": [
         {
           "name": "techslot",
@@ -142,10 +154,13 @@
       ]
     },
     {
-      "intent": "CaseDominospizza"
+      "intent": "CaseStudyItalianHealthVideo"
     },
     {
-      "intent": "CaseAerie",
+      "intent": "CaseStudyDominos"
+    },
+    {
+      "intent": "CaseStudyAerie",
       "slots": [
         {
           "name": "techslot",
@@ -154,7 +169,7 @@
       ]
     },
     {
-      "intent": "CaseNordstrom",
+      "intent": "CaseStudyNordstrom",
       "slots": [
         {
           "name": "techslot",
@@ -163,28 +178,34 @@
       ]
     },
     {
-      "intent": "CasePurina"
+      "intent": "CaseStudyPurina"
     },
     {
-      "intent": "Cpgmenu"
+      "intent": "CategoryMenuCPG"
     },
     {
-      "intent": "CaseIllinoisholocaustmuseum"
+      "intent": "CaseStudyHolocaustMuseum"
     },
     {
-      "intent": "DefaultWelcomeIntent"
+      "intent": "CaseStudyHolocaustMuseumVideo"
     },
     {
-      "intent": "CaseTide"
+      "intent": "CaseStudyTide"
     },
     {
-      "intent": "CaseEbay"
+      "intent": "CaseStudyEbay"
     },
     {
-      "intent": "CaseAabrazil"
+      "intent": "CaseStudyEbayVideo"
     },
     {
-      "intent": "CaseMayo",
+      "intent": "CaseStudyAA"
+    },
+    {
+      "intent": "CaseStudyAAVideo"
+    },
+    {
+      "intent": "CaseStudyMayoClinic",
       "slots": [
         {
           "name": "techslot",
@@ -193,7 +214,10 @@
       ]
     },
     {
-      "intent": "CaseSephora",
+      "intent": "CaseStudyMayoClinicVideo"
+    },
+    {
+      "intent": "CaseStudySephora",
       "slots": [
         {
           "name": "techslot",
@@ -202,7 +226,7 @@
       ]
     },
     {
-      "intent": "CaseZyrtec"
+      "intent": "CaseStudyZyrtec"
     }
   ]
 }
