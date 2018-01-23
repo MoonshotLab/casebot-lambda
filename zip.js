@@ -1,4 +1,3 @@
-const path = require('path');
 const Promise = require('bluebird');
 const fs = require('fs-extra');
 const zipFolder = Promise.promisify(require('zip-folder'));

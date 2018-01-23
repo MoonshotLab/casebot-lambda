@@ -111,18 +111,18 @@ CaseStudyStarbucks	starbuck s alexa skill
 CaseStudyStarbucks	starbuck's alexa skill
 CaseStudyStarbucks	starbucks
 CaseStudyStarbucks	what about starbucks
-CaseStudyAHA	aha
-CaseStudyAHA	american heart association
-CaseStudyAHA	american heart association please
-CaseStudyAHA	i'd like to hear the american heart association case study
-CaseStudyAHA	show me the heart association story
-CaseStudyAHA	what about the american heart association story
-CaseStudyAHAVideo	aha video
-CaseStudyAHAVideo	american heart association video
-CaseStudyAHAVideo	american heart association case study video
-CaseStudyAHAVideo	show me the aha case study video
-CaseStudyAHAVideo	show me the alexa cpr video
-CaseStudyAHAVideo	aha alexa video
+CaseStudyAmericanHeartAssoc	aha
+CaseStudyAmericanHeartAssoc	american heart association
+CaseStudyAmericanHeartAssoc	american heart association please
+CaseStudyAmericanHeartAssoc	i'd like to hear the american heart association case study
+CaseStudyAmericanHeartAssoc	show me the heart association story
+CaseStudyAmericanHeartAssoc	what about the american heart association story
+CaseStudyAmericanHeartAssocVideo	aha video
+CaseStudyAmericanHeartAssocVideo	american heart association video
+CaseStudyAmericanHeartAssocVideo	american heart association case study video
+CaseStudyAmericanHeartAssocVideo	show me the aha case study video
+CaseStudyAmericanHeartAssocVideo	show me the alexa cpr video
+CaseStudyAmericanHeartAssocVideo	aha alexa video
 CaseStudyAmtrak	amtrak
 CaseStudyAmtrak	amtrak ask julie
 CaseStudyAmtrak	amtrak case study
@@ -223,6 +223,15 @@ CategoryMenuTravel	travel
 CategoryMenuTravel	travel case studies
 CategoryMenuTravel	travel menu
 CategoryMenuTravel	what about travel brands
+CategoryMenuHealth	can i see the health menu
+CategoryMenuHealth	look at health menu
+CategoryMenuHealth	show me case stories from health brands
+CategoryMenuHealth	show me health stories
+CategoryMenuHealth	health
+CategoryMenuHealth	healthcare
+CategoryMenuHealth	health case studies
+CategoryMenuHealth	health menu
+CategoryMenuHealth	what about health brands
 CaseStudyUber	call me an uber
 CaseStudyUber	can i hear about the uber amazon echo skill
 CaseStudyUber	can you show me the uber story
@@ -242,33 +251,33 @@ CaseStudyUberVideo	uber alexa video
 CaseStudyUberVideo	uber video
 CaseStudyUberVideo	play uber video
 CaseStudyUberVideo	show the uber video
-CaseStudyItalianHealth	{techslot} yourself
-CaseStudyItalianHealth	alzheimer {techslot}
-CaseStudyItalianHealth	alzheimer {techslot} case study
-CaseStudyItalianHealth	alzheimers chatbot
-CaseStudyItalianHealth	alzheimers {techslot} case study
-CaseStudyItalianHealth	can i see alzheimer {techslot}
-CaseStudyItalianHealth	can i see alzheimers {techslot}
-CaseStudyItalianHealth	can i see the alzheimer s {techslot}
-CaseStudyItalianHealth	can i see the alzheimer's chatbot
-CaseStudyItalianHealth	italian health
-CaseStudyItalianHealth	italian health ministry
-CaseStudyItalianHealth	read the alzheimer {techslot} story
-CaseStudyItalianHealth	read the alzheimers chatbot story
-CaseStudyItalianHealth	show me the alzheimer s case study
-CaseStudyItalianHealth	show me the alzheimer's case study
-CaseStudyItalianHealth	show me the italian health case study
-CaseStudyItalianHealth	show me the italian health ministry {techslot}
-CaseStudyItalianHealth	what about the italian health chatbot
-CaseStudyItalianHealthVideo	chat yourself video
-CaseStudyItalianHealthVideo	alzheimer video
-CaseStudyItalianHealthVideo	alzheimer case study video
-CaseStudyItalianHealthVideo	alzheimers chatbot video
-CaseStudyItalianHealthVideo	alzheimers case study video
-CaseStudyItalianHealthVideo	italian health video
-CaseStudyItalianHealthVideo	italian health ministry video
-CaseStudyItalianHealthVideo	italian health case study video
-CaseStudyItalianHealthVideo	italian health ministry case study video
+CaseStudyItalianHealthMinistry	{techslot} yourself
+CaseStudyItalianHealthMinistry	alzheimer {techslot}
+CaseStudyItalianHealthMinistry	alzheimer {techslot} case study
+CaseStudyItalianHealthMinistry	alzheimers chatbot
+CaseStudyItalianHealthMinistry	alzheimers {techslot} case study
+CaseStudyItalianHealthMinistry	can i see alzheimer {techslot}
+CaseStudyItalianHealthMinistry	can i see alzheimers {techslot}
+CaseStudyItalianHealthMinistry	can i see the alzheimer s {techslot}
+CaseStudyItalianHealthMinistry	can i see the alzheimer's chatbot
+CaseStudyItalianHealthMinistry	italian health
+CaseStudyItalianHealthMinistry	italian health ministry
+CaseStudyItalianHealthMinistry	read the alzheimer {techslot} story
+CaseStudyItalianHealthMinistry	read the alzheimers chatbot story
+CaseStudyItalianHealthMinistry	show me the alzheimer s case study
+CaseStudyItalianHealthMinistry	show me the alzheimer's case study
+CaseStudyItalianHealthMinistry	show me the italian health case study
+CaseStudyItalianHealthMinistry	show me the italian health ministry {techslot}
+CaseStudyItalianHealthMinistry	what about the italian health chatbot
+CaseStudyItalianHealthMinistryVideo	chat yourself video
+CaseStudyItalianHealthMinistryVideo	alzheimer video
+CaseStudyItalianHealthMinistryVideo	alzheimer case study video
+CaseStudyItalianHealthMinistryVideo	alzheimers chatbot video
+CaseStudyItalianHealthMinistryVideo	alzheimers case study video
+CaseStudyItalianHealthMinistryVideo	italian health video
+CaseStudyItalianHealthMinistryVideo	italian health ministry video
+CaseStudyItalianHealthMinistryVideo	italian health case study video
+CaseStudyItalianHealthMinistryVideo	italian health ministry case study video
 CaseStudyDominos	can i see the domino's pizza study
 CaseStudyDominos	domino's
 CaseStudyDominos	domino's pizza
@@ -323,23 +332,23 @@ CategoryMenuCPG	show cpg stories
 CategoryMenuCPG	show me cpg stories
 CategoryMenuCPG	show me stories from the cpg category
 CategoryMenuCPG	what cpg case studies do you know
-CaseStudyHolocaustMuseum	can i see the holocaust museum story
-CaseStudyHolocaustMuseum	holocaust museum
-CaseStudyHolocaustMuseum	holocaust museum case study
-CaseStudyHolocaustMuseum	holocaust survivor stories case study
-CaseStudyHolocaustMuseum	illinois holocaust museum
-CaseStudyHolocaustMuseum	show me the illinois holocaust museum case study
-CaseStudyHolocaustMuseum	survivor stories
-CaseStudyHolocaustMuseum	survivor stories theater
-CaseStudyHolocaustMuseum	survivor story
-CaseStudyHolocaustMuseum	survivors stories
-CaseStudyHolocaustMuseum	what about the holocaust museum case story
-CaseStudyHolocaustMuseumVideo	can i see the holocaust museum story video
-CaseStudyHolocaustMuseumVideo	holocaust museum video
-CaseStudyHolocaustMuseumVideo	holocaust museum case study video
-CaseStudyHolocaustMuseumVideo	play the holocaust video
-CaseStudyHolocaustMuseumVideo	play the holocaust museum video
-CaseStudyHolocaustMuseumVideo	survivor stories video
+CaseStudyIllinoisHolocaustMuseum	can i see the holocaust museum story
+CaseStudyIllinoisHolocaustMuseum	holocaust museum
+CaseStudyIllinoisHolocaustMuseum	holocaust museum case study
+CaseStudyIllinoisHolocaustMuseum	holocaust survivor stories case study
+CaseStudyIllinoisHolocaustMuseum	illinois holocaust museum
+CaseStudyIllinoisHolocaustMuseum	show me the illinois holocaust museum case study
+CaseStudyIllinoisHolocaustMuseum	survivor stories
+CaseStudyIllinoisHolocaustMuseum	survivor stories theater
+CaseStudyIllinoisHolocaustMuseum	survivor story
+CaseStudyIllinoisHolocaustMuseum	survivors stories
+CaseStudyIllinoisHolocaustMuseum	what about the holocaust museum case story
+CaseStudyIllinoisHolocaustMuseumVideo	can i see the holocaust museum story video
+CaseStudyIllinoisHolocaustMuseumVideo	holocaust museum video
+CaseStudyIllinoisHolocaustMuseumVideo	holocaust museum case study video
+CaseStudyIllinoisHolocaustMuseumVideo	play the holocaust video
+CaseStudyIllinoisHolocaustMuseumVideo	play the holocaust museum video
+CaseStudyIllinoisHolocaustMuseumVideo	survivor stories video
 CaseStudyTide	can i hear the tide story
 CaseStudyTide	can i see the tide case study
 CaseStudyTide	i d like to see the tide case story
@@ -370,19 +379,19 @@ CaseStudyEbayVideo	ebay case study video
 CaseStudyEbayVideo	show me ebay video
 CaseStudyEbayVideo	show me the ebay case study video
 CaseStudyEbayVideo	ebay google assistant video
-CaseStudyAA	a a brazil story please
-CaseStudyAA	alcoholics anonymous case story
-CaseStudyAA	alcoholics anonymous brazil case study
-CaseStudyAA	alcoholics anonymous case story
-CaseStudyAA	i'd like to see the alcoholics anonymous brazil story
-CaseStudyAAVideo	play the alcoholics anonymous video
-CaseStudyAAVideo	play the brazil video
-CaseStudyAAVideo	brazil video
-CaseStudyAAVideo	alcoholics anonymous video
-CaseStudyAAVideo	alcoholics anonymous case study video
-CaseStudyAAVideo	brazil case study video
-CaseStudyAAVideo	brazil alcoholics anonymous case study video
-CaseStudyAAVideo	brazil alcoholics anonymous video
+CaseStudyAABrazil	a a brazil story please
+CaseStudyAABrazil	alcoholics anonymous case story
+CaseStudyAABrazil	alcoholics anonymous brazil case study
+CaseStudyAABrazil	alcoholics anonymous case story
+CaseStudyAABrazil	i'd like to see the alcoholics anonymous brazil story
+CaseStudyAABrazilVideo	play the alcoholics anonymous video
+CaseStudyAABrazilVideo	play the brazil video
+CaseStudyAABrazilVideo	brazil video
+CaseStudyAABrazilVideo	alcoholics anonymous video
+CaseStudyAABrazilVideo	alcoholics anonymous case study video
+CaseStudyAABrazilVideo	brazil case study video
+CaseStudyAABrazilVideo	brazil alcoholics anonymous case study video
+CaseStudyAABrazilVideo	brazil alcoholics anonymous video
 CaseStudyMayoClinic	i d like to hear the mayo clinic story
 CaseStudyMayoClinic	i'd like to hear the mayo clinic story
 CaseStudyMayoClinic	let's hear the mayo story

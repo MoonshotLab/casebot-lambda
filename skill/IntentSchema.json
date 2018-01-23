@@ -91,13 +91,16 @@
       "intent": "CategoryMenuRestaurant"
     },
     {
+      "intent": "CategoryMenuHealth"
+    },
+    {
       "intent": "CaseStudyStarbucks"
     },
     {
-      "intent": "CaseStudyAHA"
+      "intent": "CaseStudyAmericanHeartAssoc"
     },
     {
-      "intent": "CaseStudyAHAVideo"
+      "intent": "CaseStudyAmericanHeartAssocVideo"
     },
     {
       "intent": "CaseStudyAmtrak"
@@ -145,7 +148,7 @@
       "intent": "CaseStudyUberVideo"
     },
     {
-      "intent": "CaseStudyItalianHealth",
+      "intent": "CaseStudyItalianHealthMinistry",
       "slots": [
         {
           "name": "techslot",
@@ -154,7 +157,7 @@
       ]
     },
     {
-      "intent": "CaseStudyItalianHealthVideo"
+      "intent": "CaseStudyItalianHealthMinistryVideo"
     },
     {
       "intent": "CaseStudyDominos"
@@ -184,10 +187,10 @@
       "intent": "CategoryMenuCPG"
     },
     {
-      "intent": "CaseStudyHolocaustMuseum"
+      "intent": "CaseStudyIllinoisHolocaustMuseum"
     },
     {
-      "intent": "CaseStudyHolocaustMuseumVideo"
+      "intent": "CaseStudyIllinoisHolocaustMuseumVideo"
     },
     {
       "intent": "CaseStudyTide"
@@ -199,10 +202,10 @@
       "intent": "CaseStudyEbayVideo"
     },
     {
-      "intent": "CaseStudyAA"
+      "intent": "CaseStudyAABrazil"
     },
     {
-      "intent": "CaseStudyAAVideo"
+      "intent": "CaseStudyAABrazilVideo"
     },
     {
       "intent": "CaseStudyMayoClinic",
