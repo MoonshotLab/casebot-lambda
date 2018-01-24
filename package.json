@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "zip": "node zip.js"
+    "zip": "node zip.js",
+    "update":
+      "aws lambda update-function-code --function-name casebot-test --zip fileb://archive.zip",
+    "deploy": "yarn zip && yarn update"
   },
   "dependencies": {
     "alexa-sdk": "^1.0.24",

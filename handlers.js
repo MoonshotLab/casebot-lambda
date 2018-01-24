@@ -49,6 +49,7 @@ module.exports = {
   MainMenu: function() {
     const builder = new Alexa.templateBuilders.BodyTemplate1Builder();
     const spacerPath = url.resolve(assetPath, 'casebot/img/10x20.png');
+    const spacerBaseWidth = 100;
 
     template = builder
       // .setTitle('Select one of the following:')
@@ -64,16 +65,22 @@ module.exports = {
             <font size="7">
               <b>
                 <action value='CategoryMenuCause'>Cause</action>
-                <img width="74" height="30" src='${spacerPath}' />
+                <img width="${28 + spacerBaseWidth}" height="30" src='${
+            spacerPath
+          }' />
                 <action value='CategoryMenuRestaurant'>Restaurant</action><br />
 
                 <action value='CategoryMenuCPG'>CPG</action>
-                <img width="113" height="30" src='${spacerPath}' />
+                <img width="${78 + spacerBaseWidth}" height="30" src='${
+            spacerPath
+          }' />
                 <action value='CategoryMenuRetail'>Retail</action>
                 <br />
 
                 <action value='CategoryMenuHealth'>Health</action>
-                <img width="60" height="30" src='${spacerPath}' />
+                <img width="${0 + spacerBaseWidth}" height="30" src='${
+            spacerPath
+          }' />
                 <action value='CategoryMenuTravel'>Travel</action>
               </b>
             </font>
