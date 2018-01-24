@@ -24,6 +24,11 @@ module.exports = {
     this.emit(':responseReady');
   },
 
+  SessionEndedRequest: function() {
+    this.response.speak(`Good bye.`);
+    this.emit(':responseReady');
+  },
+
   NotImplemented: function() {
     this.response.speak(`not yet implemented`);
     this.emit(':responseReady');
