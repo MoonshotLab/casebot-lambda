@@ -42,6 +42,51 @@ module.exports = {
   },
 
   MainMenu: function() {
+    const builder = new Alexa.templateBuilders.BodyTemplate1Builder();
+    const spacerPath = url.resolve(assetPath, 'casebot/img/10x20.png');
+
+    template = builder
+      // .setTitle('Select one of the following:')
+      .setBackgroundImage(
+        makeImage(
+          url.resolve(assetPath, 'casebot/img/MP_CaseBot_Background_2.png')
+        )
+      )
+      .setTextContent(
+        makeRichText(
+          `
+            <font size="5">Select one of the following:</font><br /><br />
+            <font size="7">
+              <b>
+                <action value='CategoryMenuCause'>Cause</action>
+                <img width="74" height="30" src='${spacerPath}' />
+                <action value='CategoryMenuRestaurant'>Restaurant</action><br />
+
+                <action value='CategoryMenuCPG'>CPG</action>
+                <img width="113" height="30" src='${spacerPath}' />
+                <action value='CategoryMenuRetail'>Retail</action>
+                <br />
+
+                <action value='CategoryMenuHealth'>Health</action>
+                <img width="60" height="30" src='${spacerPath}' />
+                <action value='CategoryMenuTravel'>Travel</action>
+              </b>
+            </font>
+          `
+        )
+      )
+      .build();
+
+    this.response
+      .speak(
+        'Welcome to the main menu. Select one of the following categories for more information.'
+      )
+      .listen(`I'm sorry, I didn't get that. Would you say that again?`)
+      .renderTemplate(template);
+    this.emit(':responseReady');
+  },
+
+  MainMenuBak: function() {
     listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
     listTemplateBuilder = new Alexa.templateBuilders.ListTemplate1Builder();
     listItemBuilder.addItem(
@@ -465,8 +510,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Hyundai';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle('Hyundai Blue Link')
       .setBackgroundImage(
@@ -508,8 +551,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'BudLight';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Bud Light's #MyTeamCan`)
       .setBackgroundImage(
@@ -543,8 +584,6 @@ module.exports = {
     this.attributes.lastCaseStudy = `Campbells`;
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Campbell's Kitchen`)
       .setBackgroundImage(
@@ -578,8 +617,6 @@ module.exports = {
     this.attributes.lastCaseStudy = `PizzaHut`;
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Pizza Hut`)
       .setBackgroundImage(
@@ -613,8 +650,6 @@ module.exports = {
     this.attributes.lastCaseStudy = `Nike`;
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Nike's Stylebot`)
       .setBackgroundImage(
@@ -648,8 +683,6 @@ module.exports = {
     this.attributes.lastCaseStudy = `Wingstop`;
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Wingstop`)
       .setBackgroundImage(
@@ -683,8 +716,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Starbucks';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Starbucks' My Starbucks Barista`)
       .setBackgroundImage(
@@ -729,8 +760,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'AmericanHeartAssoc';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`American Heart Association`)
       .setBackgroundImage(
@@ -772,8 +801,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Amtrak';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Amtrak`)
       .setBackgroundImage(
@@ -815,8 +842,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'InstantPot';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Instant Pot`)
       .setBackgroundImage(
@@ -853,8 +878,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'KLM';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`KLM`)
       .setBackgroundImage(
@@ -896,8 +919,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'TheMuse';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`The Muse`)
       .setBackgroundImage(
@@ -931,8 +952,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Uber';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Uber`)
       .setBackgroundImage(
@@ -974,8 +993,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'ItalianHealthMinistry';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Italian Ministry of Health`)
       .setBackgroundImage(
@@ -1023,8 +1040,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Dominos';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Domino's Pizza`)
       .setBackgroundImage(
@@ -1058,8 +1073,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Aerie';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Aerie`)
       .setBackgroundImage(
@@ -1093,8 +1106,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Nordstrom';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Nordstrom`)
       .setBackgroundImage(
@@ -1128,8 +1139,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Purina';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Purina`)
       .setBackgroundImage(
@@ -1163,8 +1172,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'IllinoisHolocaustMuseum';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Illinois Holocaust Museum`)
       .setBackgroundImage(
@@ -1212,8 +1219,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Tide';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Tide's Stain Remover`)
       .setBackgroundImage(
@@ -1247,8 +1252,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Ebay';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`eBay Assistant`)
       .setBackgroundImage(
@@ -1289,8 +1292,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'AABrazil';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`AA Brazil`)
       .setBackgroundImage(
@@ -1332,8 +1333,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'MayoClinic';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Mayo Clinic`)
       .setBackgroundImage(
@@ -1378,8 +1377,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Sephora';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Sephora`)
       .setBackgroundImage(
@@ -1413,8 +1410,6 @@ module.exports = {
     this.attributes.lastCaseStudy = 'Zyrtec';
 
     const builder = new Alexa.templateBuilders.BodyTemplate2Builder();
-    listItemBuilder = new Alexa.templateBuilders.ListItemBuilder();
-
     template = builder
       .setTitle(`Zyrtec`)
       .setBackgroundImage(
