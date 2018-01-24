@@ -5,8 +5,7 @@
   "license": "MIT",
   "scripts": {
     "zip": "node zip.js",
-    "update":
-      "aws lambda update-function-code --function-name casebot-test --zip fileb://archive.zip",
+    "update": "aws lambda update-function-code --function-name casebot-test --zip fileb://archive.zip",
     "deploy": "yarn zip && yarn update"
   },
   "dependencies": {
@@ -16,5 +15,8 @@
     "fs-extra": "^5.0.0",
     "url": "^0.11.0",
     "zip-folder": "^1.0.0"
+  },
+  "devDependencies": {
+    "aws": "^0.0.3-2"
   }
 }
