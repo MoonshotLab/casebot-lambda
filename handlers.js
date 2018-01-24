@@ -810,7 +810,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Amtrak’s 375,000+ daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie, an intelligent virtual assistant, was designed as an ideal customer service rep, helping with transactions, ticketing and questions of all kinds. Ask Julie saves more than $1 million in customer service mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.<br /><br /><action value='CaseStudyAmtrakVideo'>Play video</action> | <action value='CategoryMenuTravel'>Travel Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million in mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.<br /><br /><action value='CaseStudyAmtrakVideo'>Play video</action> | <action value='CategoryMenuTravel'>Travel Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -823,7 +823,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Amtrak’s 375,000+ daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie, an intelligent virtual assistant, was designed as an ideal customer service rep, helping with transactions, ticketing and questions of all kinds. Ask Julie saves more than $1 million in customer service mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.`
+        `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million in mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -928,7 +928,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `The Ask for a Raise chatbot on Facebook is based on the famously foul-mouthed British advertising consultant, Cindy Gallop. In helping women get the money they deserve, she says encouraging things like, “It’s good to know the facts, but it’s better to make a shit-ton of money.”<br /><br /><action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `The Ask for a Raise chatbot on Facebook is based on the famously blunt British advertising consultant, Cindy Gallop. In helping women get the money they deserve, she says encouraging things like, “It’s good to know the facts, but it’s better to make a s***-ton of money.”<br /><br /><action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -941,7 +941,7 @@ module.exports = {
 
     this.response
       .speak(
-        `The Ask for a Raise chatbot on Facebook is based on the famously foul-mouthed British advertising consultant, Cindy Gallop. In helping women get the money they deserve, she says encouraging things like, “It’s good to know the facts, but it’s better to make a shit-ton of money.”`
+        `The Ask for a Raise chatbot on Facebook is based on the famously blunt British advertising consultant, Cindy Gallop. In helping women get the money they deserve, she says encouraging things like, “It’s good to know the facts, but it’s better to make a s***-ton of money.”`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1082,7 +1082,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot was designed with a distinct persona that celebrates body positivity and promotes confidence in young women.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot’s responses express a distinct persona designed to celebrate body positivity and promote confidence in young women.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1095,7 +1095,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot was designed with a distinct persona that celebrates body positivity and promotes confidence in young women.`
+        `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot’s responses express a distinct persona designed to celebrate body positivity and promote confidence in young women.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1148,7 +1148,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Dog lovers are always looking for insights into various breeds, especially if they’re trying to decide which type of furry friend to add to their households. The Ask Purina skill can answer questions and let you search with filters to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Dog lovers like getting insights into various breeds, especially when deciding which type of furry friend to add to their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1161,7 +1161,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Dog lovers are always looking for insights into various breeds, especially if they’re trying to decide which type of furry friend to add to their households. The Ask Purina skill can answer questions and let you search with filters to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!`
+        `Dog lovers like getting insights into various breeds, especially when deciding which type of furry friend to add to their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1386,7 +1386,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `With Sephora’s new chatbot on Kik, users take a short quiz about their preferences in exchange for beauty advice and customized product reviews. Want to buy products? Click on the suggested item and Sephora’s mobile site opens directly in the app. The brand chose Kik for its predominantly young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Take a short quiz on your preferences and Sephora’s chatbot on Kik will offer beauty advice and customized product reviews. Click on a suggested item and Sephora’s mobile site opens directly in the app. Sephora chose Kik for its young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1399,7 +1399,7 @@ module.exports = {
 
     this.response
       .speak(
-        `With Sephora’s new chatbot on Kik, users take a short quiz about their preferences in exchange for beauty advice and customized product reviews. Want to buy products? Click on the suggested item and Sephora’s mobile site opens directly in the app. The brand chose Kik for its predominantly young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.`
+        `Take a short quiz on your preferences and Sephora’s chatbot on Kik will offer beauty advice and customized product reviews. Click on a suggested item and Sephora’s mobile site opens directly in the app. Sephora chose Kik for its young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
