@@ -1306,7 +1306,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Situation: Brazilians are drinking more and earlier in life. Alcoholism has increased among teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, but also does it in a private and wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Situation: Brazilians are drinking more and earlier in life. Alcoholism has increased among teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, but also does it in a private and wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
