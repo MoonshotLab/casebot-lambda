@@ -81,6 +81,7 @@ module.exports = {
 
     this.response
       .speak('Welcome to the main menu. Please pick an item from the list.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -184,6 +185,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -241,6 +243,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -291,6 +294,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -348,6 +352,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -394,6 +399,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -450,6 +456,7 @@ module.exports = {
 
     this.response
       .speak('Please pick an item from the list to learn more.')
+      .shouldEndSession(null)
       .renderTemplate(listTemplate);
     this.emit(':responseReady');
   },
@@ -484,6 +491,7 @@ module.exports = {
       .speak(
         `Hyundai Blue Link gives Hyundai vehicle owners Remote Start, Remote Lock/Unlock, climate control, and more, using a phone, smartwatch, or Alexa. As seen in Hyundai’s videos, you can easily do this even if you’re a lousy actor who will never work in this town again.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -526,6 +534,7 @@ module.exports = {
       .speak(
         `Bud Light’s #MyTeamCan bot lets Facebook fans order 18-packs of Bud Light with their NFL team’s logo emblazoned on each can, delivered within the hour for $23.99. If you want Bud Light for a game day party, this is your hookup. I guess.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -560,6 +569,7 @@ module.exports = {
       .speak(
         `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Ask for recipes by meal-time, cuisine, ingredients, or even occasions like Thanksgiving. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app if you need them.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -594,6 +604,7 @@ module.exports = {
       .speak(
         `Pizza Hut launched order bots on Messenger and Twitter in 2016. Customers can reorder favorites for delivery or carryout. Pizza Hut also added a skill for Alexa, so if you can’t get online, just yell your order across the room from your supine position on the floor.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -628,6 +639,7 @@ module.exports = {
       .speak(
         `The Nike Stylebot lets sneakerheads create their own personalized shoes by blending 24 color options or using “magic match.” Users can upload photos and create sneakers to match their outfits. Then hit the “Lemme get those” button to order.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -662,6 +674,7 @@ module.exports = {
       .speak(
         `Friday night rolls around and you’re watching Netflix all by yourself. What you need is a delicious batch of hot wings smothered in tangy barbeque sauce. For that, the Wingstop Facebook bot has got you covered. In tangy barbeque sauce.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -696,6 +709,7 @@ module.exports = {
       .speak(
         `“Alexa, tell Starbucks it's coffee time.” That’s all you need to say to activate Starbucks’ voice skill and have your usual coffee drink ready for you at one of your favorite Starbucks locations.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -741,6 +755,7 @@ module.exports = {
       .speak(
         `Most major health organizations provide helpful content, but the American Heart Association’s skill on Alexa is designed for emergency situations. You can get a step-by-step on CPR or ask about the warning signs of a stroke or heart attack. It doesn’t replace calling 911, but it’s good to have a voice-controlled medical reference book handy.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -783,6 +798,7 @@ module.exports = {
       .speak(
         `Amtrak’s 375,000+ daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie, an intelligent virtual assistant, was designed as an ideal customer service rep, helping with transactions, ticketing and questions of all kinds. Ask Julie saves more than $1 million in customer service mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -828,6 +844,7 @@ module.exports = {
       .speak(
         `The Instant Pot is a 10-in-1 pressure cooker. Add the Instant Pot skill to Alexa for recipes and instructions. You can search by ingredients, cuisine, diet preferences or restrictions, or level of challenge.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -862,6 +879,7 @@ module.exports = {
       .speak(
         `KLM used Messenger to let customers ask questions and get flight information and boarding passes. Chatbots helped the airline achieve a 40% increase in customer interactions.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -904,6 +922,7 @@ module.exports = {
       .speak(
         `The Ask for a Raise chatbot on Facebook is based on the famously foul-mouthed British advertising consultant, Cindy Gallop. In helping women get the money they deserve, she says encouraging things like, “It’s good to know the facts, but it’s better to make a shit-ton of money.”`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -938,6 +957,7 @@ module.exports = {
       .speak(
         `Alexa can call an Uber for you. She can even give you arrival updates and help you choose which kind of Uber ride you want. Who knows, maybe she can improve your Uber rating.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -983,6 +1003,7 @@ module.exports = {
       .speak(
         `The Italian Ministry of Health used Facebook Messenger to improve the quality of life of Alzheimer's patients by chatting to themselves. The case study here is fascinating, if you don’t let the narrator mispronouncing “Alzheimer’s” distract you.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1028,6 +1049,7 @@ module.exports = {
       .speak(
         `The first QSR to allow customers to order using Alexa? Domino’s. (They also have chatbots on Facebook and Twitter.) Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1062,6 +1084,7 @@ module.exports = {
       .speak(
         `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot was designed with a distinct persona that celebrates body positivity and promotes confidence in young women.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1096,6 +1119,7 @@ module.exports = {
       .speak(
         `Nordstrom Holiday Delivery launched in 2016. Customers could browse and order products through Facebook Messenger or Kik, right up until Christmas Day. Some tech reviews later said that Nordstrom “ruled the holidays” with this chatbot.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1130,6 +1154,7 @@ module.exports = {
       .speak(
         `Dog lovers are always looking for insights into various breeds, especially if they’re trying to decide which type of furry friend to add to their households. The Ask Purina skill can answer questions and let you search with filters to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1167,6 +1192,7 @@ module.exports = {
       .speak(
         `Survivor Stories Theater enables museum visitors to ask questions, pose follow-ups and otherwise engage with a 3D hologram-like image of an actual Holocaust survivor. The responses are incredibly detailed and moving, based on extensive filmed interviews. From childhood stories and songs to harrowing tales of life in Nazi camps, this voice technology offers a powerful way to preserve history.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1212,6 +1238,7 @@ module.exports = {
       .speak(
         `The Tide Stain Remover skill is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your favorite shirt or grass stains from your son’s underwear. You’ll get a step-by-step (including Tide product recos, of course) and Alexa will ask if you’d like a text message with the stain removal steps written out.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1246,6 +1273,7 @@ module.exports = {
       .speak(
         `The eBay Assistant app can give you the value of items. Say something like, "OK, Google, ask eBay what an Apple Watch is worth." It will ask whether it's new or used and give you an approximate value. And it will search all listings for the Apple Watch model you want.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1287,6 +1315,7 @@ module.exports = {
       .speak(
         `Situation: Brazilians are drinking more and earlier in life. Alcoholism has increased among teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, but also does it in a private and wide-reaching way. Admit that you are powerless to resist chatbots.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1332,6 +1361,7 @@ module.exports = {
       .speak(
         `Use the Mayo Clinic First Aid skill on Alexa to get quick, hands-free self-care instructions for everyday mishaps and other situations. Just say “Alexa, open Mayo First Aid” and ask for a topic, such as: “How do I treat my baby’s fever?”, “Tell me about spider bites”, “How to disinfect a cut”, or “Instructions for CPR”`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1374,6 +1404,7 @@ module.exports = {
       .speak(
         `With Sephora’s new chatbot on Kik, users take a short quiz about their preferences in exchange for beauty advice and customized product reviews. Want to buy products? Click on the suggested item and Sephora’s mobile site opens directly in the app. The brand chose Kik for its predominantly young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   },
@@ -1408,6 +1439,7 @@ module.exports = {
       .speak(
         `If you’re wondering what the pollen count is before you head out, just ask Alexa for a Zyrtec AllergyCast report. Zyrtec could have offered generic information about allergies or a push to order. Instead, this skill gets personal, keeping a record of how you’re feeling so you can pinpoint which allergens affect you.`
       )
+      .shouldEndSession(null)
       .renderTemplate(template);
     this.emit(':responseReady');
   }
