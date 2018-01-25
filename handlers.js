@@ -602,7 +602,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Voice tech opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to Alexa.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -615,7 +615,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app.`
+        `Voice tech opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to Alexa.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1091,7 +1091,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot’s responses express a distinct persona designed to celebrate body positivity and promote confidence in young women.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. Aerie’s “real-looking,” plus-size models and the bot’s distinct persona celebrate body positivity and promote confidence in young women.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1104,7 +1104,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. If you praise Aerie’s “real-looking” or plus-size models, the bot’s responses express a distinct persona designed to celebrate body positivity and promote confidence in young women.`
+        `Aerie launched a chatbot on Kik in 2014 and now uses Messenger, too. The bot helps you shop for lingerie and swimwear. Aerie’s “real-looking,” plus-size models and the bot’s distinct persona celebrate body positivity and promote confidence in young women.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1157,7 +1157,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Dog lovers like getting insights into various breeds, especially when picking a furry friend for their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Dog lovers like getting insights into various breeds, especially when picking a furry friend for their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1237,7 +1237,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Tide Stain Remover is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos, of course), and Alexa will ask if you’d like her to text you the instructions.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Tide Stain Remover is a practical bot that helps you get rid of stains. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos), and Alexa will ask if you’d like her to text you the instructions.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1250,7 +1250,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Tide Stain Remover is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos, of course), and Alexa will ask if you’d like her to text you the instructions.`
+        `Tide Stain Remover is a practical bot that helps you get rid of stains. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos), and Alexa will ask if you’d like her to text you the instructions.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1310,7 +1310,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Situation: Alcoholism has increased among Brazilian teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Alcoholism has increased among Brazilian teens, but asking for help and information is difficult. So, AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1323,7 +1323,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Situation: Alcoholism has increased among Brazilian teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.`
+        `Alcoholism has increased among Brazilian teens, but asking for help and information is difficult. So, AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1395,7 +1395,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Take a short quiz on your preferences and Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1408,7 +1408,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Take a short quiz on your preferences and Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.`
+        `Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
