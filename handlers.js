@@ -65,22 +65,19 @@ module.exports = {
             <font size="7">
               <b>
                 <action value='CategoryMenuCause'>Cause</action>
-                <img width="${28 + spacerBaseWidth}" height="30" src='${
-            spacerPath
-          }' />
+                <img width="${28 +
+                  spacerBaseWidth}" height="30" src='${spacerPath}' />
                 <action value='CategoryMenuRestaurant'>Restaurant</action><br />
 
                 <action value='CategoryMenuCPG'>CPG</action>
-                <img width="${78 + spacerBaseWidth}" height="30" src='${
-            spacerPath
-          }' />
+                <img width="${78 +
+                  spacerBaseWidth}" height="30" src='${spacerPath}' />
                 <action value='CategoryMenuRetail'>Retail</action>
                 <br />
 
                 <action value='CategoryMenuHealth'>Health</action>
-                <img width="${0 + spacerBaseWidth}" height="30" src='${
-            spacerPath
-          }' />
+                <img width="${0 +
+                  spacerBaseWidth}" height="30" src='${spacerPath}' />
                 <action value='CategoryMenuTravel'>Travel</action>
               </b>
             </font>
@@ -605,7 +602,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Ask for recipes by meal-time, cuisine, ingredients, or even occasions like Thanksgiving. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app if you need them.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -618,7 +615,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Ask for recipes by meal-time, cuisine, ingredients, or even occasions like Thanksgiving. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app if you need them.`
+        `Voice technology opened up a whole new can of bot at Campbell’s. Alexa connects you to Campbell’s Kitchen for access to recipes matched to your preferences. Search by meal-time, cuisine, ingredients, or special occasion. This bot can help you cook, too, pushing a full list of ingredients and cooking steps to the Alexa app.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -781,7 +778,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Most major health organizations provide helpful content, but the American Heart Association’s skill on Alexa is designed for emergency situations. You can get a step-by-step on CPR or ask about the warning signs of a stroke or heart attack. It doesn’t replace calling 911, but it’s good to have a voice-controlled medical reference book handy.<br /><br /><action value='CaseStudyAmericanHeartAssocVideo'>Play video</action> | <action value='CategoryMenuHealth'>Health Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Many health organizations provide helpful content, but the American Heart Association’s skill on Alexa is designed for emergencies. Get a step-by-step on CPR, or the warning signs of stroke or heart attack. It doesn’t replace calling 911, but a voice-controlled medical reference book can be handy.<br /><br /><action value='CaseStudyAmericanHeartAssocVideo'>Play video</action> | <action value='CategoryMenuHealth'>Health Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -794,7 +791,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Most major health organizations provide helpful content, but the American Heart Association’s skill on Alexa is designed for emergency situations. You can get a step-by-step on CPR or ask about the warning signs of a stroke or heart attack. It doesn’t replace calling 911, but it’s good to have a voice-controlled medical reference book handy.`
+        `Many health organizations provide helpful content, but the American Heart Association’s skill on Alexa is designed for emergencies. Get a step-by-step on CPR, or the warning signs of stroke or heart attack. It doesn’t replace calling 911, but a voice-controlled medical reference book can be handy.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -822,7 +819,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million in mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.<br /><br /><action value='CaseStudyAmtrakVideo'>Play video</action> | <action value='CategoryMenuTravel'>Travel Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million per year with a big boost in revenue per booking. Amtrak’s ROI? 800%.<br /><br /><action value='CaseStudyAmtrakVideo'>Play video</action> | <action value='CategoryMenuTravel'>Travel Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -835,7 +832,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million in mail costs per year and generates an impressive 30% more revenue per booking. Amtrak estimates ROI at 800%.`
+        `Amtrak’s daily website visitors used to spend a lot of time on hold or waiting for email replies. Ask Julie was designed as an ideal customer service rep, helping with transactions, ticketing and FAQs. This AI assistant saves more than $1 million per year with a big boost in revenue per booking. Amtrak’s ROI? 800%.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1061,7 +1058,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `The first QSR to allow customers to order using Alexa? Domino’s. (They also have chatbots on Facebook and Twitter.) Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.<br /><br /><action value='CategoryMenuRestaurant'>Restaurant Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `The first QSR to allow customers to order using Alexa? Domino’s. (They have Facebook and Twitter chatbots, too.)<br />Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.<br /><br /><action value='CategoryMenuRestaurant'>Restaurant Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1074,7 +1071,7 @@ module.exports = {
 
     this.response
       .speak(
-        `The first QSR to allow customers to order using Alexa? Domino’s. (They also have chatbots on Facebook and Twitter.) Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.`
+        `The first QSR to allow customers to order using Alexa? Domino’s. (They have Facebook and Twitter chatbots, too.)<br />Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1160,7 +1157,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Dog lovers like getting insights into various breeds, especially when deciding which type of furry friend to add to their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Dog lovers like getting insights into various breeds, especially when picking a furry friend for their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1173,7 +1170,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Dog lovers like getting insights into various breeds, especially when deciding which type of furry friend to add to their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!`
+        `Dog lovers like getting insights into various breeds, especially when picking a furry friend for their households. The Ask Purina skill can answer questions and filter searches to find breeds that are hypoallergenic, good with kids or other pets, don’t shed, are a specific size, etc. Who’s a good voice bot? You are, Ask Purina! Yes, you are!`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1240,7 +1237,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `The Tide Stain Remover skill is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your favorite shirt or grass stains from your son’s underwear. You’ll get a step-by-step (including Tide product recos, of course) and Alexa will ask if you’d like a text message with the stain removal steps written out.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Tide Stain Remover is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos, of course), and Alexa will ask if you’d like her to text you the instructions.<br /><br /><action value='CategoryMenuCPG'>CPG Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1253,7 +1250,7 @@ module.exports = {
 
     this.response
       .speak(
-        `The Tide Stain Remover skill is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your favorite shirt or grass stains from your son’s underwear. You’ll get a step-by-step (including Tide product recos, of course) and Alexa will ask if you’d like a text message with the stain removal steps written out.`
+        `Tide Stain Remover is a practical bot that helps you get stains out of clothes. Just launch the Alexa skill and ask how to remove a coffee spill from your chinos or grass stains from your son’s underwear. You’ll get step-by-step advice (including Tide product recos, of course), and Alexa will ask if you’d like her to text you the instructions.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1313,7 +1310,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Situation: Brazilians are drinking more and earlier in life. Alcoholism has increased among teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, but also does it in a private and wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Situation: Alcoholism has increased among Brazilian teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.<br /><br /><action value='CaseStudyAABrazilVideo'>Play video</action> | <action value='CategoryMenuCause'>Cause Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1326,7 +1323,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Situation: Brazilians are drinking more and earlier in life. Alcoholism has increased among teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, but also does it in a private and wide-reaching way. Admit that you are powerless to resist chatbots.`
+        `Situation: Alcoholism has increased among Brazilian teens, but asking for help and information is difficult.  Solution: AA created a campaign that lets teens look for help without being ashamed, in a private but wide-reaching way. Admit that you are powerless to resist chatbots.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
@@ -1354,7 +1351,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Use the Mayo Clinic First Aid skill on Alexa to get quick, hands-free self-care instructions for everyday mishaps and other situations. Just say “Alexa, open Mayo First Aid” and ask for a topic, such as: “How do I treat my baby’s fever?”, “Tell me about spider bites”, “How to disinfect a cut”, or “Instructions for CPR”<br /><br /><action value='CaseStudyMayoClinicVideo'>Play video</action> | <action value='CategoryMenuHealth'>Health Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Use the Mayo Clinic First Aid skill on Alexa to get quick, hands-free self-care instructions for everyday mishaps and other situations. Just say “Alexa, open Mayo First Aid” and ask for a topic.<br /><br /><action value='CaseStudyMayoClinicVideo'>Play video</action> | <action value='CategoryMenuHealth'>Health Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1398,7 +1395,7 @@ module.exports = {
       )
       .setTextContent(
         makeRichText(
-          `Take a short quiz on your preferences and Sephora’s chatbot on Kik will offer beauty advice and customized product reviews. Click on a suggested item and Sephora’s mobile site opens directly in the app. Sephora chose Kik for its young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
+          `Take a short quiz on your preferences and Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.<br /><br /><action value='CategoryMenuRetail'>Retail Menu</action> | <action value='MainMenu'>Main Menu</action>`
         )
       )
       .setImage(
@@ -1411,7 +1408,7 @@ module.exports = {
 
     this.response
       .speak(
-        `Take a short quiz on your preferences and Sephora’s chatbot on Kik will offer beauty advice and customized product reviews. Click on a suggested item and Sephora’s mobile site opens directly in the app. Sephora chose Kik for its young audience: Roughly 70% of Kik users are aged 12-24, and 40% of all US teens use it.`
+        `Take a short quiz on your preferences and Sephora’s chatbot on Kik offers beauty advice and customized product reviews. Click on a suggested item to open Sephora’s mobile site directly in the app. Sephora chose Kik for its young fans: 70% of Kik users are 12-24, and 40% of all US teens use it.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
