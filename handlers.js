@@ -1071,7 +1071,7 @@ module.exports = {
 
     this.response
       .speak(
-        `The first QSR to allow customers to order using Alexa? Domino’s. (They have Facebook and Twitter chatbots, too.)<br />Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.`
+        `The first QSR to allow customers to order using Alexa? Domino’s. (They have Facebook and Twitter chatbots, too.) Domino’s now considers itself an e-commerce company that sells pizza. Alexa, name another company that has reinvented itself so completely. Alexa? OK, never mind.`
       )
       .shouldEndSession(null)
       .renderTemplate(template);
